@@ -19,16 +19,32 @@
 
 ## `> whoami`
 
-```python
-kushagr = {
-    "role"        : "Quantitative Analyst & Data Engineer",
-    "mindset"     : "First principles → elegant solutions",
-    "currently"   : ["building KrishiMitra 🌾", "scaling HomeOrbit 🏠"],
-    "certified_by": ["JPMorgan Chase & Co.", "Deloitte"],
-    "obsessed_with": ["markets", "models", "meaningful products"],
-}
-```
 
+I don’t really fit into a title — I build systems that try to make sense of messy worlds.
+
+I work at the intersection of markets, data, and ideas that refuse to stay simple.
+
+Right now, I’m building:
+- 🌾 KrishiMitra → turning agricultural chaos into usable intelligence
+- 🏠 HomeOrbit → making real estate feel less like guessing, more like signal
+
+I’ve worked through structured environments like JPMorgan Chase & Co. and Deloitte,
+but the real obsession started after that — when I realized data is just reality trying to explain itself.
+
+---
+
+### 🧬 Operating style
+
+- Think in first principles, but ship like it’s urgent
+- Prefer clarity over complexity, but enjoy breaking both first
+- Build until it starts behaving like a system, not a project
+
+---
+
+### 📡 Current focus
+
+Markets. Models. Meaningful products.  
+And anything that looks impossible until it works.
 ---
 
 ## `> ls ./projects`
