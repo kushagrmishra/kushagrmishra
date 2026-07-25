@@ -90,6 +90,8 @@ A real estate analytics and home management platform that brings quantitative ri
   > * Agentic Opus. simply Lovely *
   
    multi-agent orchestration platform (planning agent + tool-calling sub-agents + eval harness). Maps to agentic AI, the fastest-growing category.
+
+   **What it does:**
      -Planning layer — breaks the goal into subtasks
      -Execution layer — sub-agents complete subtasks using tools
      -Evaluation layer — scores results for accuracy and reliability
