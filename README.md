@@ -27,7 +27,7 @@ I work at the intersection of markets, data, and ideas that refuse to stay simpl
 Right now, I’m building:
 - 🌾 KrishiMitra → turning agricultural chaos into usable intelligence
 - 🏠 HomeOrbit → making real estate feel less like guessing, more like signal
-
+- Agentops → multi-agent orchestration platform (planning agent + tool-calling sub-agents + eval harness). Maps to agentic AI, the fastest-growing category.
 I’ve worked through structured environments like JPMorgan Chase & Co. and Deloitte,
 but the real obsession started after that — when I realized data is just reality trying to explain itself.
 
