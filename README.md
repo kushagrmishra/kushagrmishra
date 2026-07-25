@@ -160,7 +160,7 @@ FICO Score Modelling      Forensic Analytics        Systems Thinking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushagr_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagrmishra)
 [![GitHub](https://img.shields.io/badge/GitHub-kushagrmishra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagrmishra)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagr@example.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kush2805m@gmail.com)
 
 </div>
 
