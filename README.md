@@ -83,7 +83,9 @@ A real estate analytics and home management platform that brings quantitative ri
 ![](https://img.shields.io/badge/Core-Data_Driven-9b59b6?style=flat-square)
 
 </td>
+
 <td width="50%">
+  
   ### *AgentOps*
   > * Agentic Opus. simply Lovely *
   
@@ -95,7 +97,6 @@ A real estate analytics and home management platform that brings quantitative ri
    - Evaluation layer — An evaluation harness runs the system against a defined set of test scenarios and scores outcomes, providing measurable, repeatable validation of system performance rather than relying on manual inspection.
 </td>
 </tr>
-
 </table>
 
 ---
