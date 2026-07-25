@@ -90,11 +90,10 @@ A real estate analytics and home management platform that brings quantitative ri
   > * Agentic Opus. simply Lovely *
   
    multi-agent orchestration platform (planning agent + tool-calling sub-agents + eval harness). Maps to agentic AI, the fastest-growing category.
-
-   
-   - Planning layer — A planning agent receives a high-level objective and decomposes it into a structured sequence of subtasks, assigning each to an appropriate specialized agent.
-   - Execution layer — Task-specific sub-agents carry out their assigned subtasks using scoped tool access (e.g., web search, code execution), rather than relying solely on the model's internal knowledge.
-   - Evaluation layer — An evaluation harness runs the system against a defined set of test scenarios and scores outcomes, providing measurable, repeatable validation of system performance rather than relying on manual inspection.
+     -Planning layer — breaks the goal into subtasks
+     -Execution layer — sub-agents complete subtasks using tools
+     -Evaluation layer — scores results for accuracy and reliability
+    
 </td>
 </tr>
 </table>
