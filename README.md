@@ -86,18 +86,20 @@ A real estate analytics and home management platform that brings quantitative ri
 
 <td width="33.33%">
   
-  ### *AgentOps*
+### *AgentOps*
   > * Agentic Opus. simply Lovely *
   
    multi-agent orchestration platform (planning agent + tool-calling sub-agents + eval harness). Maps to agentic AI, the fastest-growing category.
 
-   **What it does:**
-     -Planning layer:breaks the goal into subtasks
-     -Execution layer:sub-agents complete subtasks using tools
-     -Evaluation layer:scores results for accuracy and reliability
+**What it does:**
+- Planning layer:breaks the goal into subtasks
+- Execution layer:sub-agents complete subtasks using tools
+- Evaluation layer:scores results for accuracy and reliability
+
+     
  ![](https://img.shields.io/badge/Domain-AI_Infrastructure-3498db?style=flat-square)
-![](https://img.shields.io/badge/Core-Agent_Orchestration-9b59b6?style=flat-square)
-![](https://img.shields.io/badge/Eval-Driven-2ecc71?style=flat-square)
+ ![](https://img.shields.io/badge/Core-Agent_Orchestration-9b59b6?style=flat-square)
+ ![](https://img.shields.io/badge/Eval-Driven-2ecc71?style=flat-square)
 </td>
 </tr>
 </table>
